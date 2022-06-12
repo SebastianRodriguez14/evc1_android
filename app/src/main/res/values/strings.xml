@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">evc01_android</string>
+    <string name = "title">Welcome to the\n relaxing app</string>
+    <string name="slogan">A moment of peace...</string>
+</resources>
